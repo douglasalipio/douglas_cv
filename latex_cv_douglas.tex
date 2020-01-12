@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Developer CV
 % LaTeX Template
 % Version 1.0 (28/1/19)
@@ -20,7 +20,7 @@
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 \documentclass[9pt]{developercv} % Default font size, values from 8-12pt are recommended
-
+\usepackage[utf8]{inputenc}
 %----------------------------------------------------------------------------------------
 
 \begin{document}
@@ -31,7 +31,6 @@
 
 \begin{minipage}[t]{0.45\textwidth} % 45% of the page width for name
 	\vspace{-\baselineskip} % Required for vertically aligning minipages
-	
 	% If your name is very short, use just one of the lines below
 	% If your name is very long, reduce the font size or make the minipage wider and reduce the others proportionately
 	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Douglas}}}}} % First name
@@ -71,20 +70,19 @@
 
 \begin{minipage}[t]{0.4\textwidth} % 40% of the page width for the introduction text
 	\vspace{-\baselineskip} % Required for vertically aligning minipages
-I have been a software engineer for over 8+ years specialised in  Mobile Development and Web Development. I am  an open-source enthusiast
-and I love build things from scratch. 
-
+A focused and proactive Android Developer with international experience in Top of Mind mobile brands. Currently searching for personal development and enhancement of professional skills.
 \end{minipage}
 \hfill % Whitespace between
 \begin{minipage}[t]{0.5\textwidth} % 50% of the page for the skills bar chart
 	\vspace{-\baselineskip} % Required for vertically aligning minipages
 	\begin{barchart}{5.5}
 		\baritem{Java}{90}
-		\baritem{Kotlin}{80}
-		\baritem{C Charp}{50}
-		\baritem{Node JS}{60}
+		\baritem{Kotlin}{90}
 		\baritem{Git}{70}
 		\baritem{Postgree/MySql}{60}
+		\baritem{NoSql}{60}
+		\baritem{C Sharp}{50}
+		\baritem{Python}{50}
 	\end{barchart}
 \end{minipage}
 
@@ -93,70 +91,88 @@ and I love build things from scratch.
 %----------------------------------------------------------------------------------------
 
 \cvsect{Experience}
-
+\newline
 \begin{entrylist}
 	\entry
-		{2017 -- Present}
-		{Android Developer}
+		{06/2019}
+		{Android Engineer }
+		{Oneview. Dublin, Ireland}
+{\newline
+Tasks include fixing bugs, reviewing code, develop features and participating in meetings to decide the best approach to design the backend service. The application works with Fragments and Activities. Some of the views were created with Android Custom Views and Anko library. Designed database implementing Couchbase light. For dependency injection, it used ToothPick library. The application supports integration tests, Unit test and UI tests. The libraries used for that were Mockito, Roboletric, and JUnit4.
+\newline
+\newline
+ {\texttt{Android SDK}\slashsep\texttt{RESTful API}\slashsep\texttt{Azure DevOps}\slashsep\texttt{Kotlin}\slashsep\texttt{Anko UI}\slashsep\texttt{Crashlytics}\slashsep\texttt{SonarQube}\slashsep\texttt{Git}\slashsep\texttt{Kanban}\slashsep\texttt{MPAndroidChart}\slashsep\texttt{MVP Architecture}}}
+
+\entry
+		{2017-2019}
+		{Mobile Engineer}
 		{Security First. Dublin, Ireland}
-		{I have been working as an Android Developer in an open source project developing a new version following the guidelines of Material Design, create new features, implementing MVP pattern and developing automatic tests.
+{\newline
+I worked on developing a new version of Umbrella App, an Irish open source project hosted on GitHub, by following the guidelines of Material Design, creating new features, implementing a MVP pattern and developing automated tests.The new version of the project was written with kotlin 1.3+. In addition, some relevant libraries were used, such as DbFlow, Coroutines, Dagger2, single architecture with Conductor, Espresso, Mockito, etc.
 \newline
 \newline
-Umbrella – Umbrella is an Android mobile app developed by Security First that provides human rights defenders with the information on what to do in any given security situation and the tools to do it. There are some libraries that we use such as SQLCipher, Picasso, Crashlytics, AndroidPining, Espresso, Mockito etc.
-}
-	\entry
-		{2017 -- Contractor}
+ {\texttt{Android SDK}\slashsep\texttt{RESTful API}\slashsep\texttt{Travis CI}\slashsep\texttt{Kotlin}\slashsep\texttt{Android API 16+}\slashsep\texttt{Crashlytics}\slashsep\texttt{Java 8}\slashsep\texttt{Git}\slashsep\texttt{Clean Architecture}\slashsep\texttt{MVVM}}}
+
+\entry
+		{Contractor}
 		{Android Developer}
 		{Spectrum Health. Dublin, Ireland}
-		{I worked as an Android developer to finalize a project which was already being developed by the company team.
+{\newline
+I worked fixing bugs and settled new features using specific libraries, such as Retrofit, Picasso, Dagger2, and MPAndroidChart. Furthermore, this application consumed data from a server written in PHP language.
 \newline
 \newline
-Health Coach – we developed an application to help people live a healthy lifestyle and to practice more exercise. We used somes API to build such as Retrofit, Picasso, Dagger and MPAndroidChart. That application consumed data from a server written in PHP language.}
-	\entry
+{\texttt{Android SDK}\slashsep\texttt{RESTful API}\slashsep\texttt{Bug fix}\slashsep\texttt{MVVM Pattern}}}
+
+\entry
 		{2014 -- 2017}
-		{Software Developer}
+		{Senior Software Engineer}
 		{Samsung Eletronics. Manaus, Brazil}
-		{I worked on Research and Development institute for Android applications and participated giving opinions that involved design and software architecture. Below I describes some projects that I worked in.
+{
+\newline
+\textbf{Accecibility Mode}  Integrated the pioneering team that conducts the company's main studies for the Samsung Gear VR Headset. The team developed an API called Accessibility module for people with disabilities and used Samsung's own GVRf library and Android API to improve the TalkBack, Speech, Zoom and Inverted Colours features.\newline
+{\texttt{C++}\slashsep\texttt{Gvrf}\slashsep\texttt{Android SDK}\slashsep\texttt{Git}}
+\newline 
+\newline  
+\textbf{RetailMotion} I worked on the app to introduce Samsung mobile phones to costumers in physical stores. The project had several Android APIs such as Gson, Retrofit, Dagger1, Mockito, Picasso, etc. In order to enhance the quality of the project, Sonarqube and Unit tests were also applied.
+  {\texttt{Animation}\slashsep\texttt{Jenkins}\slashsep\texttt{Android SDK}\slashsep\texttt{PForce} \texttt{MVVM Pattern}}
 \newline
 \newline
-Accessibility module - I worked with the team that developed a API called Accessibility module for the Samsung Gear VR Glasses. We use samgung’s own GVRf library and Android API to develop the Talk Back, Speech, Zoom and Inverted Colours features.
-\newline
-\newline
-RetailMode – I worked on the project to introduce the Samsung mobile phones in the stores. We made use of several Android APIs such as Fragments, Animations, Gson, Retrofit, Dagger, Mockito, Picasso etc. We follow the quality of the project using Sonar and developing unit tests.
-GVRf Samples – Develop several sample applications to facilitate the use of the Gvrf Api library. These applications showed how to perform animation, the collision of objects, identifica- tion of objects in the scene, creation of multiple 3D scenes, etc.
-\newline
-\newline
-Smart Controls - We developed a prototype for controlling Samsung’s air conditioners. In this project, we work in a Wi-Fi communication between the device and air-conditioning where it is possible to increase and decrease temperature, turn on and off and scheduling of functionalities.}
+ \textbf{GVRf Samples} I developed several sample applications to facilitate the use of the Gvrf open source 3D library. These applications showed how to perform animation, for example, the collision of objects, the identification of objects in the scene, the creation of multiple 3D scenes, etc.
+{\texttt{Java}\slashsep\texttt{Gvrf}\slashsep\texttt{Android SDK}\slashsep\texttt{Git}}
+
+}
 	\entry
 		{2013 -- 2014}
-		{Mobile Developer}
+		{Mobile Engineer}
 		{Foca Consulting. São Paulo, Brazil}
-		{I developed an Android Mobile Application (Live Taxi) and contributed to software design and innovative features. In this project, I utilized Google Maps API to plot information and add elements to map layers.
-
-Project Description:
-Application for taxi call, where you can call a taxi and the taxi driver accept the race. To make the communication between driver and passenger was developed an application server writing Node.js}
+{\newline
+Developed liveTaxi app, were utilised Google Maps API to plot information and add elements to map layers. Additionally, an application server writing Node.js was developed to implement the communication between passenger and driver.\newline
+		{\texttt{Android}\slashsep\texttt{Google Maps}\slashsep\texttt{Node.js}\slashsep\texttt{Git}\slashsep\texttt{MongoDB}\slashsep\texttt{AsyncTask}\slashsep\texttt{MVP}}}
 \entry
 		{2012 -- 2013}
-		{Software Developer}
+		{Software Engineer}
 		{Cin - University of Pernambuco. Recife, Brazil}
-		{I developed applications for Android smartphones and tablets within the Informatics Center of the Federal University of Pernambuco.
+{\newline
+\textbf{Estadão widget} I worked on the team that developed the application for the biggest Brazilian newspaper Estadão (O Estado de São Paulo). The team used communication with webService and populated the data through an Android View (RemoteView).
 \newline
 \newline
-Estadão Widget - I worked on the team where we developed the application for the biggest journal Estão We used communication with webService and populated the data through an Android View (RemoteView).
-\newline
-\newline
-Reader QRCode - I worked on the team where we developed a QRCode reader for the Samsung Slate tablet. This project was developed using C Sharp for Windows Phone devices.}
+\textbf{Reader QRCode} I worked on the team that developed a QRCode reader for the Samsung Slate tablet. This project was developed using C Sharp for Windows Phone devices
+
+}
 \entry
 		{2007 -- 2011}
-		{Software Developer}
+		{Software Engineer}
 		{Grupo Provider. Recife, Brazil}
-		{I developed web applications using various technologies and methods provided by the platform and the Java community. The project used a MVC architecture with Struts, Spring and Hibernate. Also, I worked developing the application for Android such as smartphone and tablets.
+{\newline
+  \textbf{Monitoria} It's a call center attendant monitoring project. The team used Jasper Report and Birt Report to create charts reports. The project used an MVC architecture with Struts, Spring and Hibernate. The app was developed using J2EE.\newline
+{\texttt{Java 6}\slashsep\texttt{Spring}\slashsep\texttt{Tomcat}\slashsep\texttt{JPA}\slashsep\texttt{Java JSF}\slashsep\texttt{Java script}\slashsep\texttt{Html}\slashsep\texttt{CSS}} \slashsep\texttt{Hudson}\slashsep\texttt{Sonar}
 \newline
 \newline
-Monitoria - I was part of the development team that developed an application to generate reports. We used JasperReport and Birt Report to make this. The application was developed using J2EE
+\textbf{Hiper Card}  The application is intended to help employees to input data on tablets such as images and forms. The application has some forms, take pictures and send data to a FTP server.
 \newline
-\newline
-HIPER CARD - I was part of the development team that developed an application for Android. The application was developed to help employees to input data on tablets. The application has some form, take pictures and send data to FTP server.}
+{\texttt{Java 6}\slashsep\texttt{Android 1.5}\slashsep\texttt{FIleTransfer}\slashsep\texttt{AsyncTask}\slashsep\texttt{Service}\slashsep\texttt{Camera}\slashsep\texttt{Notification}}
+
+}
 \end{entrylist}
 
 %----------------------------------------------------------------------------------------
@@ -167,20 +183,20 @@ HIPER CARD - I was part of the development team that developed an application fo
 
 \begin{entrylist}
 	\entry
-		{2009 -- 2012}
-		{Bachelor's Degree in  Analyse and Information System}
-		{Mauricio de Nassau University}
-		
+		{2018 -- 2019}
+		{BA Hons in Computer Science}
+		{CCT College Dublin}
+		{}
 	\entry
 		{2017 - 2017}
-		{Postgraduate Diploma}
+		{General English}
 		{Dublin City University}
-		
+		{}
 	\entry
-		{2018 -- 2019}
-		{Postgraduate Diploma in Computer Science}
-		{CCT College}
-		
+		{2009 -- 2012}
+		{Bachelor's Degree in Information System}
+		{Mauricio de Nassau University}
+		{}
 \end{entrylist}
 
 %----------------------------------------------------------------------------------------
@@ -193,14 +209,24 @@ HIPER CARD - I was part of the development team that developed an application fo
 	\cvsect{Languages}
 	
 	\textbf{Portuguese} - native\\
-	\textbf{English} - proficient\\
-	\textbf{Spanish} - rudimentary
+	\textbf{English} - advanced\\
+	\textbf{Spanish} - beginner
+\end{minipage}
+\begin{minipage}[t]{.7\textwidth}
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+
+	\cvsect{Accomplishments}
+	
+	\begin{description}
+	\item[$\bullet$] \href{http://www.dotazoneapp.com/en/}{http://www.dotazoneapp.com/en/}
+\end{description}
+
 \end{minipage}
 %\hfill
 %\begin{minipage}[t]{0.3\textwidth}
 %	\vspace{-\baselineskip} % Required for vertically aligning minipages
 	
-%	\cvsect{Hobbies}
+%	\cvsect{Key assets}
 	
 %	I love... \lorem
 %\end{minipage}

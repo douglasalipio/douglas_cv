@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.27)  28 MAR 2019 11:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.27)  12 JAN 2020 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -883,68 +883,90 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 29.86pt on input line 37.
+(Font)              scaled to size 29.86pt on input line 36.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 29.86pt on input line 37.
+(Font)              scaled to size 29.86pt on input line 36.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 43.
+(Font)              scaled to size 14.4pt on input line 42.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 50.
+(Font)              scaled to size 10.0pt on input line 49.
 LaTeX Font Info:    Try loading font information for U+fontawesometwo on input 
-line 50.
+line 49.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 50.
+(Font)              <6> on input line 49.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 50.
+(Font)              <5> on input line 49.
 LaTeX Font Info:    Try loading font information for U+fontawesomeone on input 
-line 52.
+line 51.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 50--53
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
 
  []
 
 
-Overfull \hbox (3.05258pt too wide) in paragraph at lines 32--63
+Overfull \hbox (3.05258pt too wide) in paragraph at lines 32--62
 [][] [] [] 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 70.
+(Font)              scaled to size 9.0pt on input line 69.
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 106.
+(Font)              scaled to size 7.0pt on input line 104.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 106.
+(Font)              scaled to size 7.0pt on input line 104.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 104.
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--106
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
 
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 106--106
-\T1/Raleway-TLF/m/n/9 Umbrella ^^U Um-brella is an An-droid mo-bile app de-vel-
-oped by Se-cu-rity First that pro-vides
+Underfull \hbox (badness 1242) in paragraph at lines 104--104
+\T1/Raleway-TLF/m/n/9 Tasks in-clude fix-ing bugs, re-view-ing code, de-velop f
+ea-tures and par-tic-i-pat-ing in meet-ings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/cmtt/m/n/9 Android SDK \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 RESTful API \
+T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Azure DevOps \T1/Raleway-TLF/m/n/9 / \T1/
+cmtt/m/n/9 Kotlin \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Anko UI \T1/Raleway-TL
+F/m/n/9 / \T1/cmtt/m/n/9 Crashlytics
  []
 
 
@@ -953,114 +975,166 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 129--129
-\T1/Raleway-TLF/m/n/9 Accessibility mod-ule - I worked with the team that de-ve
-l-oped a API called Ac-ces-si-bil-ity
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\T1/cmtt/m/n/9 Android SDK \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 RESTful API \
+T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Travis CI \T1/Raleway-TLF/m/n/9 / \T1/cmt
+t/m/n/9 Kotlin \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Android API 16+ \T1/Ralew
+ay-TLF/m/n/9 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
-
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 129--129
-\T1/Raleway-TLF/m/n/9 this project, we work in a Wi-Fi com-mu-ni-ca-tion be-twe
-en the de-vice and air-conditioning
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
 
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 148--148
-\T1/Raleway-TLF/m/n/9 Reader QR-Code - I worked on the team where we de-vel-ope
-d a QR-Code reader for the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--159
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--159
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
 
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 143--143
+\T1/Raleway-TLF/b/n/9 RetailMotion \T1/Raleway-TLF/m/n/9 I worked on the app to
+ in-tro-duce Sam-sung mo-bile phones to cos-tumers in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 143--143
+\T1/Raleway-TLF/b/n/9 GVRf Sam-ples \T1/Raleway-TLF/m/n/9 I de-vel-oped sev-era
+l sam-ple ap-pli-ca-tions to fa-cil-i-tate the use of the Gvrf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 175--175
+\T1/cmtt/m/n/9 Java 6 \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Spring \T1/Raleway
+-TLF/m/n/9 / \T1/cmtt/m/n/9 Tomcat \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 JPA \
+T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Java JSF \T1/Raleway-TLF/m/n/9 / \T1/cmtt
+/m/n/9 Java script \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Html \T1/Raleway-TLF/
+m/n/9 / \T1/cmtt/m/n/9 CSS  \T1/Raleway-TLF/m/n/9 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+\T1/cmtt/m/n/9 Java 6 \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Android 1.5 \T1/Ra
+leway-TLF/m/n/9 / \T1/cmtt/m/n/9 FIleTransfer \T1/Raleway-TLF/m/n/9 / \T1/cmtt/
+m/n/9 AsyncTask \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Service \T1/Raleway-TLF/
+m/n/9 / \T1/cmtt/m/n/9 Camera \T1/Raleway-TLF/m/n/9 /
  []
 
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--173
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Overfull \hbox (1.52998pt too wide) in paragraph at lines 206--228
+[][] [] 
  []
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
  (./latex_cv_douglas.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
 Package rerunfilecheck Info: File `latex_cv_douglas.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
  ) 
 Here is how much of TeX's memory you used:
- 19912 strings out of 492649
- 390848 string characters out of 6129622
- 493788 words of memory out of 5000000
- 23439 multiletter control sequences out of 15000+600000
- 116601 words of font info for 39 fonts, out of 8000000 for 9000
+ 19932 strings out of 492649
+ 391469 string characters out of 6129622
+ 495788 words of memory out of 5000000
+ 23455 multiletter control sequences out of 15000+600000
+ 116914 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,69p,434b,637s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeon
-e.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontaweso
-metwo.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.
-enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwes
-ome.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/impallari/raleway/Ralew
-ay-Bold.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/impallari/raleway/R
-aleway-Regular.pfb>
-Output written on latex_cv_douglas.pdf (2 pages, 66995 bytes).
+ 62i,8n,69p,534b,637s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.
+enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesome
+two.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.en
+c}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesom
+e.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/impallari/raleway/Raleway
+-Bold.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/impallari/raleway/Ral
+eway-Regular.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/
+sftt0900.pfb>
+Output written on latex_cv_douglas.pdf (2 pages, 110006 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
