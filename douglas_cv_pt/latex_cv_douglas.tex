@@ -1,0 +1,414 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Developer CV
+% LaTeX Template
+% Version 1.0 (28/1/19)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Authors:
+% Jan Vorisek (jan@vorisek.me)
+% Based on a template by Jan Küster (info@jankuester.com)
+% Modified for LaTeX Templates by Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+\documentclass[9pt]{developercv} % Default font size, values from 8-12pt are recommended
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.45\textwidth} % 45% of the page width for name
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% If your name is very short, use just one of the lines below
+	% If your name is very long, reduce the font size or make the minipage wider and reduce the others proportionately
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Douglas}}}}} % First name
+	
+	\colorbox{black}{{\HUGE\textcolor{white}{\textbf{\MakeUppercase{Mesquita}}}}} % Last name
+	
+	\vspace{6pt}
+	
+	{\huge Senior Software Engineer} % Career or current job title
+\end{minipage}
+\begin{minipage}[t]{0.275\textwidth} % 27.5% of the page width for the first row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% The first parameter is the FontAwesome icon name, the second is the box size and the third is the text
+	% Other icons can be found by referring to fontawesome.pdf (supplied with the template) and using the word after \fa in the command for the icon you want
+	\icon{MapMarker}{12}{Recife, Brazil}\\
+	\icon{Phone}{12}{+55 81 8755983}\\
+	\icon{At}{12}{\href{mailto:douglasalipio@gmail.com}{douglasalipio@gmail.com}}\\	
+\end{minipage}
+\begin{minipage}[t]{0.275\textwidth} % 27.5% of the page width for the second row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% The first parameter is the FontAwesome icon name, the second is the box size and the third is the text
+	% Other icons can be found by referring to fontawesome.pdf (supplied with the template) and using the word after \fa in the command for the icon you want
+	\icon{Globe}{12}{\href{https://douglasalipio.wordpress.com}{douglas.wordpress}}\\
+	\icon{Github}{12}{\href{https://github.com/douglasalipio}{github.com/douglasalipio}}\\
+	\icon{Linkedin}{12}{\href{https://www.linkedin.com/in/douglasalipio/}{@douglasalipio}}\\
+\end{minipage}
+
+\vspace{0.5cm}
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION, SKILLS AND TECHNOLOGIES
+%----------------------------------------------------------------------------------------
+
+\cvsect{Who Am I?}
+
+\begin{minipage}[t]{0.4\textwidth} % 40% of the page width for the introduction text
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+Sou engenheiro de software há mais de 10+ anos, especializado em desenvolvimento de sistema. Eu sou um entusiasta de código aberto
+e adoro construir coisas do zero.
+
+\end{minipage}
+\hfill % Whitespace between
+\begin{minipage}[t]{0.5\textwidth} % 50% of the page for the skills bar chart
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	\begin{barchart}{5.5}
+		\baritem{Java}{100}
+		\baritem{Kotlin}{100}
+		\baritem{Git}{80}
+		\baritem{Python}{60}
+		\baritem{C Charp}{50}
+		\baritem{Javascript}{45}
+	\end{barchart}
+\end{minipage}
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\cvsect{Experience}
+%------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------
+ %----------------------Transact EXPERIENCE------------------------------
+ %------------------------------------------------------------------------------------
+ %------------------------------------------------------------------------------------
+\begin{entrylist}
+	\entry
+		{2020\\\footnotesize{Atual}}
+		{Senior Software Engineer}
+		{Transact Campus. Limerick, Ireland}
+{
+
+Tenho desenvolvido soluções de comércio do campus para potencializar as compras do campus em soluções integradas de ponto de venda para contas de alunos vinculadas a cartões de identificação do campus e credenciais móveis. Entregamos um produto com todos os recursos em um curto espaço de tempo, permitindo que a empresa conseguisse grandes clientes. As tecnologias incluem credenciais com cartões Biométricos, NFC e Cartão Magnético.
+\newline
+\newline
+Tenho envolvido no gerenciamento de indivíduos tanto em uma base local quanto remota. Contato com o product owner para cumprir prazos apertados e tarefas priorizadas com base na eficiência da equipe.
+ 	{
+ 		\texttt{Android SDK}\slashsep
+		 \texttt{RESTful API}\slashsep
+		 \texttt{Azure}\slashsep
+		 \texttt{Kotlin}\slashsep
+		 \texttt{Morpho Server}\slashsep
+		 \texttt{Jenkins}\slashsep
+		 \texttt{Java 8}\slashsep
+		 \texttt{Git}\slashsep
+		 \texttt{Dagger2}\slashsep
+		 \texttt{Scrum}\slashsep
+		 \texttt{RxJava}\slashsep
+		 \texttt{Jacoco}\slashsep
+		 \texttt{Sonarqube}\slashsep
+		 \texttt{Junit5}\slashsep
+		 \texttt{Sqlite}\slashsep
+		 \texttt{Espresso}\slashsep
+	}
+}
+
+\end{entrylist}
+
+%------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------
+ %----------------------Oneview EXPERIENCE------------------------------
+ %------------------------------------------------------------------------------------
+ %------------------------------------------------------------------------------------
+\begin{entrylist}
+	\entry
+		{2019 -  2020}
+		{Senior Android Engineer}
+		{Oneview Healthcare. Dublin, Ireland}
+{
+
+Trabalhei no projeto Senior Living que é uma plataforma que atua como um ecossistema voltado para o para área da saúde, tendo como objetivo principal a automação de residência para idosos e soluções hospitalares na Austrália e Estados Unidos. As tarefas incluem corrigir bugs, revisar código, desenvolver recursos e melhoria da pipeline do projeto.
+\newline
+ 	{
+ 		\texttt{Android SDK}\slashsep
+		 \texttt{RESTful API}\slashsep
+		 \texttt{Travis CI}\slashsep
+		 \texttt{Kotlin}\slashsep
+		 \texttt{Scrum}\slashsep
+		 \texttt{Android API 16+}\slashsep
+		 \texttt{Crashlytics}\slashsep
+		 \texttt{Java 8}\slashsep
+		 \texttt{Git}\slashsep
+		 \texttt{Dagger2}\slashsep
+		 \texttt{Jetpack components}\slashsep
+		 \texttt{RxJava}\slashsep
+	}
+}
+\end{entrylist}
+%------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------
+ %----------------------Umbrella EXPERIENCE------------------------------
+ %------------------------------------------------------------------------------------
+ %------------------------------------------------------------------------------------
+\begin{entrylist}
+	\entry
+		{2017 -  2019}
+		{Senior Android Engineer}
+		{Security First. Dublin, Ireland}
+{
+Trabalhei no desenvolvimento de uma nova versão do aplicativo Umbrella, projeto pioneiro na comunidade Irlandesa voltado para ajudar a comunidade jornalista ao redor do mundo em manter sua seus dados seguros através da internet. Umbrella é um projeto de código aberto hospedado no GitHub. Minhas principais responsabilidade no projeto foi criar e desenvolver a nova arquitetura do projeto e acompanha o desenvolvimento do projeto com a gerência.
+
+ 	{
+ 		\texttt{Android SDK}\slashsep
+		 \texttt{RESTful API}\slashsep
+		 \texttt{Travis CI}\slashsep
+		 \texttt{Kotlin}\slashsep
+		 \texttt{Android API 16+}\slashsep
+		 \texttt{Scrum}\slashsep
+		 \texttt{Crashlytics}\slashsep
+		 \texttt{Java 8}\slashsep
+		 \texttt{Git}\slashsep
+		 \texttt{Dagger2}\slashsep
+		 \texttt{RxJava}\slashsep
+	}
+}
+\end{entrylist}
+%------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------
+ %----------------------Samsung EXPERIENCE-----------------------------
+ %------------------------------------------------------------------------------------
+ %------------------------------------------------------------------------------------
+\begin{entrylist}
+	\entry
+		{2014 -  2017}
+		{Senior Software Engineer}
+		{Samsung Eletronics. Manaus, Brazil}
+{
+Trabalhei no Departamento de Pesquisa e Desenvolvimento da Samsung Brasil, que tem sede em Manaus no Instituto de Ciência e Tecnologia (SIDIA). Nessa função, contribuí para muitas soluções mobile e web e dei opiniões que envolviam design e arquitetura de software. Além disso, exigia a capacidade de gerenciar vários projetos e trabalhar sob pressão.
+\newline
+\newline
+\textbf{Modo de Acessibilidade} - Integrei a equipe pioneira que realiza as principais pesquisas para o Samsung Gear VR Headset. A equipe desenvolveu o primeiro módulo de Acessibilidade para que pessoas com deficiência visual para que tenham uma melhor experiência com o uso da realidade virtual. Recursos desenvolvidos para Talk-back, Fala, Zoom e Cores Invertidas.
+
+ 	{
+ 		\texttt{Android SDK}\slashsep
+ 		\texttt{Tizen}\slashsep
+		 \texttt{RESTful API}\slashsep
+		 \texttt{Sonarqube}\slashsep
+		 \texttt{Smart TV}\slashsep
+		 \texttt{Unity 3D-VR}\slashsep
+		 \texttt{Kotlin}\slashsep
+		 \texttt{Android API 16+}\slashsep
+		 \texttt{Clean architecture}\slashsep
+		 \texttt{Java 7}\slashsep
+		 \texttt{Git}\slashsep
+		 \texttt{Scrum}\slashsep
+		 \texttt{PForce}\slashsep
+		 \texttt{Gvrf lib}\slashsep
+	}
+}
+\end{entrylist}
+%------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------
+ %----------------------Focaconsulting EXPERIENCE----------------------
+ %------------------------------------------------------------------------------------
+ %------------------------------------------------------------------------------------
+\begin{entrylist}
+	\entry
+		{2013 -  2014}
+		{Android Developer}
+		{Foca Consulting. São Paulo, Brazil}
+{
+
+O Livetaxi foi uma das primeiras aplicações de táxi do mercado brasileiro em 2010. Fui responsável por desenvolver recursos como rastrear frota em tempo real, otimizar operações e oferecer aos passageiros uma experiência superior de reserva de viagens. Principais responsabilidades foram desenvolver novas funcionalidades e correção de erros.
+\newline
+ 	{
+ 		\texttt{Android SDK}\slashsep
+		 \texttt{RESTful API}\slashsep
+		 \texttt{Sqlite}\slashsep
+		 \texttt{Google Maps}\slashsep
+		 \texttt{Java 8}\slashsep
+		 \texttt{Git}\slashsep
+		 \texttt{Mongo DB}\slashsep
+		 \texttt{Scrum}\slashsep
+		 \texttt{Node JS}\slashsep
+		 \texttt{Async Task}\slashsep
+		 \texttt{MVC}\slashsep
+	}
+}
+\end{entrylist}
+%------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------
+ %----------------------Cin EXPERIENCE------------------------------------
+ %-----------------------------------------------------------------------------------
+ %-----------------------------------------------------------------------------------
+\begin{entrylist}
+	\entry
+		{2012 -  2013}
+		{Android Developer}
+		{Cin. Recife, Brazil}
+{
+
+Ingressei na empresa para fazer parte da equipe Android da Universidade de Pernambuco no projeto Samsung. A equipe era responsável por entregar soluções de alto valor para o mercado da Samsung.
+\newline
+\textbf{Estadão widget} - Fiz parte da equipe desenvolvimento para um dos maiores portais de notícias do Brasil,'O Estado de São Paulo'. Um widget que se comunica via Rest API e envia os dados por meio de uma Visualização Android
+\newline
+\textbf{Reader QRCode} - Trabalhei no QRCode Reader App para tablets da Samsun. Este projeto foi desenvolvido usando C Sharp para dispositivos Windows Phone. Principais funções exigiam desenvolvimento sobre as tecnologias da Microsoft e organizar e priorizar tarefas.
+
+ 	{
+ 		\texttt{Android SDK}\slashsep
+		 \texttt{RESTful API}\slashsep
+		 \texttt{Sqlite}\slashsep
+		 \texttt{Remove View}\slashsep
+		 \texttt{C Sharp}\slashsep
+		 \texttt{Scrum}\slashsep
+		 \texttt{Windows Phone}\slashsep
+		 \texttt{Java 5}\slashsep
+		 \texttt{Git}\slashsep
+		 \texttt{Async Task}\slashsep
+		 \texttt{MVC}\slashsep
+	}
+}
+\end{entrylist}
+%------------------------------------------------------------------------------------
+%------------------------------------------------------------------------------------
+ %----------------------Provider EXPERIENCE------------------------------
+ %------------------------------------------------------------------------------------
+ %------------------------------------------------------------------------------------
+\begin{entrylist}
+	\entry
+		{2007 -  2011}
+		{Full-stack}
+		{Provider Sistemas. Recife, Brazil}
+{
+
+Comecei na empresa como estagiário e me tornei desenvolvedor full-stack em um projeto B2B que é capaz de ajudar o cliente a lidar com sua equipe em um call center. Como desenvolvedor júnior, fui o primeiro funcionário a desenvolver soluções móveis usando o Android 1.5.
+\newline
+\newline
+\textbf{Hipercard App} -O aplicativo teve o intuito de automatizar a emissão de cartões de credito para novos clientes.
+
+ 	{
+ 		\texttt{Android SDK}\slashsep
+		 \texttt{HTML}\slashsep
+		 \texttt{Java JSF}\slashsep
+		 \texttt{Tomcat}\slashsep
+		 \texttt{C Sharp}\slashsep
+		 \texttt{Spring MVC}\slashsep
+		 \texttt{Java 5}\slashsep
+		 \texttt{Git}\slashsep
+		 \texttt{Async Task}\slashsep
+		 \texttt{MVC}\slashsep
+		 \texttt{HTML}\slashsep
+		 \texttt{CSS}\slashsep
+		 \texttt{Hudson CI}\slashsep
+		 \texttt{FIleTransfer}\slashsep
+		 \texttt{JUnit}\slashsep
+		 \texttt{Sonar}\slashsep
+		 \texttt{Camera}\slashsep
+		 \texttt{Android Notification}\slashsep
+	}
+}
+\end{entrylist}
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\cvsect{Educação}
+
+\begin{entrylist}	
+	\entry
+		{2018 - 2019}
+		{Duration- 1 year}
+		{Pós-graduação em Ciências da Computação}
+		{Universidade CCT Dublin}
+	\entry
+		{2017 - 2017}
+		{Duration- 1 year}
+		{General English}
+		{Universidade Dublin City}
+	\entry
+		{2009 - 2012}
+		{Duration- 4 year}
+		{Bachelor's Degree em Análise e Desenvolvimento de Sistemas}
+		{Universidade Mauricio de Nassau}
+\end{entrylist}
+%----------------------------------------------------------------------------------------
+%	LANGUAGES
+%----------------------------------------------------------------------------------------
+\begin{minipage}[t]{0.3\textwidth}
+
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+
+	\cvsect{Languages}
+	
+	\textbf{Portuguese} - Native\\
+	\textbf{English} - Proficient\\
+	\textbf{Spanish} - Elementary
+\end{minipage}
+\hfill
+%----------------------------------------------------------------------------------------
+%	HOBBIES
+%----------------------------------------------------------------------------------------
+\begin{minipage}[t]{0.3\textwidth}
+
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	\cvsect{Hobbies}
+	
+Gosto de ser fisicamente ativo e passo muito tempo jogando Capoeira e aprendendo sobre a história do Brasil através da Capoeira.
+\end{minipage}
+\hfill
+%----------------------------------------------------------------------------------------
+%	NON PROFIT
+%----------------------------------------------------------------------------------------
+\begin{minipage}[t]{0.3\textwidth}
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	\cvsect{Non profit}
+
+Quando tenho algum tempo livre, gosto de compartilhar meu conhecimento de informática com as pessoas, começar projetos do zero e ser mais ativo na comunidade de código aberto.
+\end{minipage}
+
+\cvsect{Projetos pessoais}
+\newline
+%----------------------------------------------------------------------------------------
+%	DOTAZONE APP
+%----------------------------------------------------------------------------------------
+\begin{minipage}[t]{0.3\textwidth}
+
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+
+	\cvsect{Dotazone App}
+	
+https://play.google.com/store/apps/details?id=br.com.dotazone
+\end{minipage}
+%----------------------------------------------------------------------------------------
+%	METODO 0 APP
+%----------------------------------------------------------------------------------------
+\newline
+\newline
+\begin{minipage}[t]{0.3\textwidth}
+
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+
+	\cvsect{Método 0 App}
+	
+https://play.google.com/store/apps/details?id=com.br.metodo0.android
+\end{minipage}
+
+\end{document}
