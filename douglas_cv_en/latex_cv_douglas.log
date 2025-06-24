@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.26)  15 JAN 2024 14:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.26)  24 JUN 2025 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -783,14 +783,14 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LT@p@ftn=\toks34
 ))
 LaTeX Font Info:    Trying to load font information for T1+Raleway-TLF on input
- line 26.
+ line 24.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/raleway/T1Raleway-TLF.fd
 File: T1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for T1/Raleway-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 26.
+(Font)              scaled to size 9.0pt on input line 24.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
@@ -800,33 +800,33 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 (./latex_cv_douglas.aux)
 \openout1 = `latex_cv_douglas.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 24.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 2
-6.
+4.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 26.
-Package hyperref Info: Link coloring OFF on input line 26.
+LaTeX Font Info:    ... okay on input line 24.
+Package hyperref Info: Link coloring OFF on input line 24.
 
 (./latex_cv_douglas.out) (./latex_cv_douglas.out)
 \@outlinefile=\write4
@@ -890,141 +890,116 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 29.86pt on input line 37.
+(Font)              scaled to size 29.86pt on input line 32.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 29.86pt on input line 37.
+(Font)              scaled to size 29.86pt on input line 32.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 43.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 50.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 50.
+(Font)              scaled to size 14.4pt on input line 35.
 
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
+[][][][][][][]
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 32--36
+[][][][][][] \T1/Raleway-TLF/m/n/14.4 Se-nior Soft-ware
+ []
+
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 40.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
+ut line 40.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 50.
+(Font)              <6> on input line 40.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 50.
+(Font)              <5> on input line 40.
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 52.
+ut line 42.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 50--53
-
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+[]$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
-
- []
-
-
-Overfull \hbox (3.05258pt too wide) in paragraph at lines 32--63
-[][] [] [] 
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+[]$
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 70.
+(Font)              scaled to size 9.0pt on input line 58.
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--100
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 119.
+(Font)              scaled to size 7.0pt on input line 98.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 119.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-19.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+(Font)              scaled to size 7.0pt on input line 98.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on inpu
+t line 98.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
+File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-
+TLF.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
-[]\T1/cmtt/m/n/9 Clojure \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Microservices \
-T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Kafka \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/
-n/9 Kotlin \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Git \T1/Raleway-TLF/m/n/9 / \
-T1/cmtt/m/n/9 Scrum \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Sonarqube \T1/Ralewa
-y-TLF/m/n/9 /
- []
+LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 98.
+
+! Undefined control sequence.
+<argument> ...na/Splunk \end {itemize} \techstack 
+                                                  {Clojure, Kafka, Kotlin, M...
+l.98     }
+          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
-\T1/cmtt/m/n/9 Git \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Koin \T1/Raleway-TLF/
-m/n/9 / \T1/cmtt/m/n/9 Scrum \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Jacoco \T1/
-Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Sonarqube \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m
-/n/9 Junit5 \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Amplitude \T1/Raleway-TLF/m/
-n/9 / \T1/cmtt/m/n/9 Jetpack
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
-\T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 RESTful API \T1/Raleway-TLF/m/n/9 / \T1/
-cmtt/m/n/9 Azure \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Kotlin \T1/Raleway-TLF/
-m/n/9 / \T1/cmtt/m/n/9 Morpho Server \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Jen
-kins \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Java 8 \T1/Raleway-TLF/m/n/9 / \T1/
-cmtt/m/n/9 Git
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
-\T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Dagger2 \T1/Raleway-TLF/m/n/9 / \T1/cmtt
-/m/n/9 Scrum \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 RxJava \T1/Raleway-TLF/m/n/
-9 / \T1/cmtt/m/n/9 Jacoco \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Sonarqube \T1/
-Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Junit5 \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/
-9 Sqlite \T1/Raleway-TLF/m/n/9 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 219--219
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--219
-\T1/cmtt/m/n/9 Android SDK \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 RESTful API \
-T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Travis CI \T1/Raleway-TLF/m/n/9 / \T1/cmt
-t/m/n/9 Kotlin \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Scrum \T1/Raleway-TLF/m/n
-/9 / \T1/cmtt/m/n/9 Android API 16+ \T1/Raleway-TLF/m/n/9 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 247--247
-[]\T1/cmtt/m/n/9 Android SDK \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 RESTful API
- \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Travis CI \T1/Raleway-TLF/m/n/9 / \T1/c
-mtt/m/n/9 Kotlin \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Android API 16+ \T1/Ral
-eway-TLF/m/n/9 / \T1/cmtt/m/n/9 Scrum \T1/Raleway-TLF/m/n/9 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 280--280
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--280
-\T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Smart TV \T1/Raleway-TLF/m/n/9 / \T1/cmt
-t/m/n/9 Unity 3D-VR \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Kotlin \T1/Raleway-T
-LF/m/n/9 / \T1/cmtt/m/n/9 Android API 16+ \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/
-9 Clean architecture \T1/Raleway-TLF/m/n/9 /
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
  []
 
 [1
@@ -1033,163 +1008,27 @@ LF/m/n/9 / \T1/cmtt/m/n/9 Android API 16+ \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/
 al/texlive/2023/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{/usr/local/tex
 live/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local
 /texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/l
-ocal/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--309
-\T1/cmtt/m/n/9 Android SDK \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 RESTful API \
-T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Sqlite \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m
-/n/9 Google Maps \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Java 8 \T1/Raleway-TLF/
-m/n/9 / \T1/cmtt/m/n/9 Git \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Mongo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
-[]\T1/cmtt/m/n/9 Android SDK \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 RESTful API
- \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Sqlite \T1/Raleway-TLF/m/n/9 / \T1/cmtt
-/m/n/9 Remove View \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 C Sharp \T1/Raleway-T
-LF/m/n/9 / \T1/cmtt/m/n/9 Scrum \T1/Raleway-TLF/m/n/9 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 380--380
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 380--380
-[]\T1/cmtt/m/n/9 Android SDK \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 HTML \T1/Ra
-leway-TLF/m/n/9 / \T1/cmtt/m/n/9 Java JSF \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/
-9 Tomcat \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 C Sharp \T1/Raleway-TLF/m/n/9 /
- \T1/cmtt/m/n/9 Spring MVC \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Java 5 \T1/Ra
-leway-TLF/m/n/9 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 380--380
-\T1/cmtt/m/n/9 Git \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 Async Task \T1/Ralewa
-y-TLF/m/n/9 / \T1/cmtt/m/n/9 MVC \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 HTML \T
-1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 CSS \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9
- Hudson CI \T1/Raleway-TLF/m/n/9 / \T1/cmtt/m/n/9 FIleTransfer \T1/Raleway-TLF/
-m/n/9 / \T1/cmtt/m/n/9 JUnit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 427--428
-
- []
-
-
-Underfull \hbox (badness 7522) in paragraph at lines 429--430
-[]\T1/Raleway-TLF/m/n/9 I en-joy be-ing phys-i-cally ac-tive,
- []
-
-
-Underfull \hbox (badness 1412) in paragraph at lines 429--430
-\T1/Raleway-TLF/m/n/9 and spend a lot of time play-ing
- []
-
-
-Underfull \hbox (badness 1533) in paragraph at lines 429--430
-\T1/Raleway-TLF/m/n/9 Capoeira and learn-ing about the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
-
- []
-
-
-Underfull \hbox (badness 2781) in paragraph at lines 440--441
-\T1/Raleway-TLF/m/n/9 with peo-ple by start-ing projects
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 453--454
-
- []
-
-
-Overfull \hbox (124.03398pt too wide) in paragraph at lines 455--456
-[]\T1/Raleway-TLF/m/n/9 https://play.google.com/store/apps/details?id=br.com.do
-tazone 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
-
- []
-
-
-Overfull \hbox (157.09091pt too wide) in paragraph at lines 468--469
-[]\T1/Raleway-TLF/m/n/9 https://play.google.com/store/apps/details?id=com.br.me
-todo0.android 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 443--470
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 443--470
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 443--470
-
- []
-
-[3] (./latex_cv_douglas.aux)
+ocal/texlive/2023/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}]
+(./latex_cv_douglas.aux)
 Package rerunfilecheck Info: File `latex_cv_douglas.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23886 strings out of 476025
- 468161 string characters out of 5790017
- 1888388 words of memory out of 5000000
- 43909 multiletter control sequences out of 15000+600000
- 623917 words of font info for 57 fonts, out of 8000000 for 9000
+ 23725 strings out of 476025
+ 465000 string characters out of 5790017
+ 1869388 words of memory out of 5000000
+ 43756 multiletter control sequences out of 15000+600000
+ 624310 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,8n,118p,434b,685s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,8n,118p,434b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesom
 e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/impallari/raleway/Raleway
 -Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/impallari/raleway/Ral
-eway-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-supe
-r/sftt0900.pfb>
-Output written on latex_cv_douglas.pdf (3 pages, 111520 bytes).
+eway-Regular.pfb>
+Output written on latex_cv_douglas.pdf (1 page, 65911 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
+ 48 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
